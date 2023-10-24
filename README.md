@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Carbajo</h1>
-<h3 align="center">I'm currently studying "Fullstack Developer" in FactoriaF5.</h3>
+<h3 align="center">I'm currently teaching FULL STACK with Spring,MySQL and ReactJS.</h3>
 
 - 📫 How to reach me **christian_carbajo@hotmail.com**
 
