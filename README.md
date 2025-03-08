@@ -31,6 +31,9 @@ My most frequent task is system integrations within our PMS.</h3>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="react" width="60" height="40"/> 
   </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="react" width="60" height="40"/> 
+  </a>
 
 </p>
 <h3 align="left">Back-End:</h3>
