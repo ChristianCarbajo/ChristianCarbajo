@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Carbajo</h1>
-<h3 align="center">I'm currently teaching FULL STACK with Spring,MySQL and ReactJS.</h3>
+<h3 align="center">I am currently working as a Full Stack Developer for FNSrooms using PHP, MySQL, jQuery, JavaScript, HTML, and CSS.
+My most frequent task is system integrations within our PMS.</h3>
 
 - 📫 How to reach me **christian_carbajo@hotmail.com**
 
